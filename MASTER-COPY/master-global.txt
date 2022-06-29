@@ -1,0 +1,46 @@
+[General]
+Pre19Defaults=false
+Pre21Defaults=false
+Pre23Defaults=false
+Pre24.1Defaults=false
+FirstRun=true
+LastVersion=453115908
+
+[Basic]
+Profile=Sans nom
+ProfileDir=Sans nom
+SceneCollection=Sans nom
+SceneCollectionFile=Sans nom
+
+[BasicWindow]
+gridMode=false
+geometry=AdnQywADAAD////9////9gAAB1cAAAhKAAAAAAAAABQAAAdUAAAIRwAAAAAAAAAADwAAAAAAAAAAFAAAB1QAAAhH
+DockState=AAAA/wAAAAD9AAAAAQAAAAMAAAdVAAABw/wBAAAABvsAAAAUAHMAYwBlAG4AZQBzAEQAbwBjAGsBAAAAAAAAAR0AAACgAP////sAAAAWAHMAbwB1AHIAYwBlAHMARABvAGMAawEAAAEjAAABGgAAAKAA////+wAAABIAbQBpAHgAZQByAEQAbwBjAGsBAAACQwAAAj8AAADcAP////sAAAAeAHQAcgBhAG4AcwBpAHQAaQBvAG4AcwBEAG8AYwBrAQAABIgAAAEOAAAAmgD////7AAAAGABjAG8AbgB0AHIAbwBsAHMARABvAGMAawEAAAWcAAABuQAAAPMA////+wAAABIAcwB0AGEAdABzAEQAbwBjAGsCAAAGIgAAA9QAAAK8AAAAyAAAB1UAAAY8AAAABAAAAAQAAAAIAAAACPwAAAAA
+ExtraBrowserDocks=[]
+PreviewEnabled=true
+AlwaysOnTop=false
+SceneDuplicationMode=true
+SwapScenesMode=true
+EditPropertiesMode=false
+PreviewProgramMode=false
+DocksLocked=false
+ShowStatusBar=true
+
+[scripts-tool]
+prevScriptRow=-1
+
+[ScriptLogWindow]
+geometry=AdnQywADAAAAAAAAAAAAFAAAAlcAAAGjAAAAAAAAABQAAAJXAAABowAAAAAAAAAADwAAAAAAAAAAFAAAAlcAAAGj
+
+[NDIPlugin]
+MainOutputEnabled=true
+MainOutputName=OUTPUT=0
+PreviewOutputEnabled=true
+PreviewOutputName=test
+
+[PropertiesWindow]
+cx=720
+cy=580
+
+[WebsocketAPI]
+AuthSetupPrompted=true

@@ -1,0 +1,1 @@
+{"settings":{"bwtest":false,"key":"","server":"rtmp://192.168.3.1:1931/awlive","use_auth":false},"type":"rtmp_custom"}
